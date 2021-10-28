@@ -1,0 +1,200 @@
+export const populationDataFemale = {
+    "2001": [
+        { "name": "Ang Mo Kio", "value": 88810 },
+        { "name": "Bedok", "value": 143730 },
+        { "name": "Bishan", "value": 45230 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 63010 },
+        { "name": "Bukit Merah", "value": 72670 },
+        { "name": "Bukit Panjang", "value": 53170 },
+        { "name": "Bukit Timah", "value": 34640 },
+       
+    ],
+    "2002": [
+        { "name": "Ang Mo Kio", "value": 87710 },
+        { "name": "Bedok", "value": 144020 },
+        { "name": "Bishan", "value": 44960 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 64340 },
+        { "name": "Bukit Merah", "value": 72650 },
+        { "name": "Bukit Panjang", "value": 55750 },
+        { "name": "Bukit Timah", "value": 34930 },
+        
+    ],
+    "2003": [
+        { "name": "Ang Mo Kio", "value": 86230 },
+        { "name": "Bedok", "value": 140950 },
+        { "name": "Bishan", "value": 43680 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 64950 },
+        { "name": "Bukit Merah", "value": 70880 },
+        { "name": "Bukit Panjang", "value": 56710 },
+        { "name": "Bukit Timah", "value": 33680 },
+        
+    ],
+    "2004": [
+        { "name": "Ang Mo Kio", "value": 85770 },
+        { "name": "Bedok", "value": 141200 },
+        { "name": "Bishan", "value": 44140 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 66280 },
+        { "name": "Bukit Merah", "value": 71230 },
+        { "name": "Bukit Panjang", "value": 58520 },
+        { "name": "Bukit Timah", "value": 34450 },
+       
+    ],
+    "2005": [
+        { "name": "Ang Mo Kio", "value": 85940 },
+        { "name": "Bedok", "value": 141830 },
+        { "name": "Bishan", "value": 44700 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 67810 },
+        { "name": "Bukit Merah", "value": 72060 },
+        { "name": "Bukit Panjang", "value": 59610 },
+        { "name": "Bukit Timah", "value": 35450 },
+        
+    ],
+    "2006": [
+        { "name": "Ang Mo Kio", "value": 87200 },
+        { "name": "Bedok", "value": 142610 },
+        { "name": "Bishan", "value": 45250 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 69250 },
+        { "name": "Bukit Merah", "value": 74300 },
+        { "name": "Bukit Panjang", "value": 60210 },
+        { "name": "Bukit Timah", "value": 36580 },
+       
+    ],
+    "2007": [
+        { "name": "Ang Mo Kio", "value": 88180 },
+        { "name": "Bedok", "value": 144130 },
+        { "name": "Bishan", "value": 45690 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 70550 },
+        { "name": "Bukit Merah", "value": 76370 },
+        { "name": "Bukit Panjang", "value": 61140 },
+        { "name": "Bukit Timah", "value": 37490 },
+       
+    ],
+    "2008": [
+        { "name": "Ang Mo Kio", "value": 89540 },
+        { "name": "Bedok", "value": 145310 },
+        { "name": "Bishan", "value": 46120 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 71230 },
+        { "name": "Bukit Merah", "value": 78020 },
+        { "name": "Bukit Panjang", "value": 62250 },
+        { "name": "Bukit Timah", "value": 36840 },
+        
+    ],
+    "2009": [
+        { "name": "Ang Mo Kio", "value": 91950 },
+        { "name": "Bedok", "value": 148590 },
+        { "name": "Bishan", "value": 46650 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 72780 },
+        { "name": "Bukit Merah", "value": 80030 },
+        { "name": "Bukit Panjang", "value": 63810 },
+        { "name": "Bukit Timah", "value": 36710 },
+        
+    ],
+    "2010": [
+        { "name": "Ang Mo Kio", "value": 92180 },
+        { "name": "Bedok", "value": 150120 },
+        { "name": "Bishan", "value": 46770 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 72840 },
+        { "name": "Bukit Merah", "value": 80370 },
+        { "name": "Bukit Panjang", "value": 64510 },
+        { "name": "Bukit Timah", "value": 37340 },
+       
+    ],
+    "2011": [
+        { "name": "Ang Mo Kio", "value": 92100 },
+        { "name": "Bedok", "value": 150660 },
+        { "name": "Bishan", "value": 46640 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 72540 },
+        { "name": "Bukit Merah", "value": 80160 },
+        { "name": "Bukit Panjang", "value": 64860 },
+        { "name": "Bukit Timah", "value": 37400 },
+       
+    ],
+    "2012": [
+        { "name": "Ang Mo Kio", "value": 92290 },
+        { "name": "Bedok", "value": 150800 },
+        { "name": "Bishan", "value": 47600 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 72290 },
+        { "name": "Bukit Merah", "value": 80610 },
+        { "name": "Bukit Panjang", "value": 65680 },
+        { "name": "Bukit Timah", "value": 38350 },
+        
+    ],
+    "2013": [
+        { "name": "Ang Mo Kio", "value": 92220 },
+        { "name": "Bedok", "value": 150410 },
+        { "name": "Bishan", "value": 47580 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 72070 },
+        { "name": "Bukit Merah", "value": 80280 },
+        { "name": "Bukit Panjang", "value": 65990 },
+        { "name": "Bukit Timah", "value": 39070 },
+        
+    ],
+    "2014": [
+        { "name": "Ang Mo Kio", "value": 92180 },
+        { "name": "Bedok", "value": 149990 },
+        { "name": "Bishan", "value": 47200 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 71800 },
+        { "name": "Bukit Merah", "value": 80800 },
+        { "name": "Bukit Panjang", "value": 66780 },
+        { "name": "Bukit Timah", "value": 39480 },
+        
+    ],
+    "2015": [
+        { "name": "Ang Mo Kio", "value": 90550 },
+        { "name": "Bedok", "value": 148530 },
+        { "name": "Bishan", "value": 46590 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 70610 },
+        { "name": "Bukit Merah", "value": 80390 },
+        { "name": "Bukit Panjang", "value": 69870 },
+        { "name": "Bukit Timah", "value": 39810 },
+       
+    ],
+    "2016": [
+        { "name": "Ang Mo Kio", "value": 88800 },
+        { "name": "Bedok", "value": 147440 },
+        { "name": "Bishan", "value": 46320 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 70080 },
+        { "name": "Bukit Merah", "value": 79850 },
+        { "name": "Bukit Panjang", "value": 71220 },
+        { "name": "Bukit Timah", "value": 40500 },
+       
+    ],
+    "2017": [
+        { "name": "Ang Mo Kio", "value": 86780 },
+        { "name": "Bedok", "value": 146470 },
+        { "name": "Bishan", "value": 46440 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 70350 },
+        { "name": "Bukit Merah", "value": 79170 },
+        { "name": "Bukit Panjang", "value": 71590 },
+        { "name": "Bukit Timah", "value": 40900 },
+       
+    ],
+    "2018": [
+        { "name": "Ang Mo Kio", "value": 86350 },
+        { "name": "Bedok", "value": 144780 },
+        { "name": "Bishan", "value": 45590 },
+        { "name": "Boon Lay", "value": 0 },
+        { "name": "Bukit Batok", "value": 73550 },
+        { "name": "Bukit Merah", "value": 78750 },
+        { "name": "Bukit Panjang", "value": 71290 },
+        { "name": "Bukit Timah", "value": 41450 },
+       
+    ]
+};
