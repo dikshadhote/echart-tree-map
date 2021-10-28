@@ -176,7 +176,7 @@ class App extends Component {
     return (
       <ReactEcharts
         option={this.getOption()}
-        style={{ height: "80vh", left: 50, top: 50, width: "90vw" }}
+        style={{ height: "100vh", left: 50, top: 50, width: "100vw" }}
         opts={{ renderer: "svg" }}
       />
     );

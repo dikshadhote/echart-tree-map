@@ -3,10 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import PieChart from './PieChart'
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <PieChart/>
   </React.StrictMode>,
   document.getElementById('root')
 );
