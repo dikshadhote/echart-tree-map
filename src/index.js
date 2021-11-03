@@ -4,10 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import PieChart from './PieChart';
-import TreeMap from './TreeMap'
+import TreeMap from './TreeMap';
+import LineRace from './LineRace';
 ReactDOM.render(
   <React.StrictMode>
-    <TreeMap/>
+      <LineRace/>
   </React.StrictMode>,
   document.getElementById('root')
 );
