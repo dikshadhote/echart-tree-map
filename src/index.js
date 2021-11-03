@@ -6,9 +6,10 @@ import reportWebVitals from './reportWebVitals';
 import PieChart from './PieChart';
 import TreeMap from './TreeMap';
 import LineRace from './LineRace';
+import LineRaceAnimation from './LineRaceAnimation';
 ReactDOM.render(
   <React.StrictMode>
-      <LineRace/>
+      <LineRaceAnimation/>
   </React.StrictMode>,
   document.getElementById('root')
 );
